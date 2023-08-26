@@ -27,5 +27,5 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ## Learn More
 you can go to this link for check out::
-[Calculator]{https://tooo-do-cd14c.web.app}
+[Calculator](https://tooo-do-cd14c.web.app)
 
